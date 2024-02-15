@@ -12,7 +12,6 @@ public class Weasel {
     private static final double mutation = 0.5;
     private static final int fit = target.length();
 
-    private static String parent;
     static Random rand = new Random();
 
     private static int fitness(String trial) {
@@ -43,7 +42,7 @@ public class Weasel {
 
     public static void main(String[] args) {
 
-        parent = mutate(target, 1);
+        String parent = mutate(target, 1);
 
         int iterator = 0;
 
