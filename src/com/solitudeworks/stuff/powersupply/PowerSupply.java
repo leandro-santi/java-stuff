@@ -1,4 +1,4 @@
-package com.solitudeworks.powersupply;
+package com.solitudeworks.stuff.powersupply;
 
 import java.util.ArrayList;
 import java.util.List;

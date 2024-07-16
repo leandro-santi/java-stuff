@@ -1,4 +1,4 @@
-package com.solitudeworks.bogosort;
+package com.solitudeworks.stuff.bogosort;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -26,9 +26,7 @@ public class BogoSort {
         for (int i = 0; i < size; i++) {
             swap(array, i, random.nextInt(size));
         }
-
     }
-
 
     private static void bogoSort(int[] array, int size) {
         int i = 0;

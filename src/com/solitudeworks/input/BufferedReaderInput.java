@@ -1,4 +1,4 @@
-package com.solitudeworks.in;
+package com.solitudeworks.input;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.solitudeworks.powersupply;
+package com.solitudeworks.stuff.powersupply;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.solitudeworks.weasel;
+package com.solitudeworks.stuff.weasel;
 
 // this is a genetic algorithm entry sample
 

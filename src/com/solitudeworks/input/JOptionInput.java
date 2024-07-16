@@ -1,4 +1,4 @@
-package com.solitudeworks.in;
+package com.solitudeworks.input;
 
 import javax.swing.*;
 
