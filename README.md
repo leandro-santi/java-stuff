@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/leandro-santi/java-stuff?color=%234169E1&style=flat-square" alt="languages" />
-  <img src="https://img.shields.io/github/license/leandro-santi/java-stuff?color=%234169E1&style=flat-square" alt="license" />
-  <img src="https://img.shields.io/github/repo-size/leandro-santi/java-stuff?color=%234169E1&style=flat-square" alt="repo size" />
+  <img src="https://img.shields.io/github/languages/count/leandro-santi/java-stuff?color=%231E90FF&style=flat-square" alt="languages" />
+  <img src="https://img.shields.io/github/license/leandro-santi/java-stuff?color=%231E90FF&style=flat-square" alt="license" />
+  <img src="https://img.shields.io/github/repo-size/leandro-santi/java-stuff?color=%231E90FF&style=flat-square" alt="repo size" />
 </div>
 
 # Java Stuff
